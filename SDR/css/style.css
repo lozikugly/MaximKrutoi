@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+  }
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #444;
+    text-align: center;
+}
+
+.xos {
+    background-image: url('../img/95620.jpg');
+}
+
+.container {
+    padding: 50px 20px;
+    font-family: Poppins;
+    margin-top:-700px;
+}
+
+.btn {
+    font-size: 30px;
+}
+
+.card {
+    font-size: 30px;
+}
